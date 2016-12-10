@@ -312,6 +312,7 @@
 				847ABC571DFCA324002FD112 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
